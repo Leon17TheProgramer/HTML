@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+body {
+    background-color: #141d24;
+    color: white;
+    font-family: "Pixelify Sans", sans-serif;
+    text-align:center;
+}
+a{
+    text-align:left;
+    color: blueviolet;
+}
+
+ol{
+    text-align:left;
+}
+
+.ul_item {
+    color: orange;
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+#L_17_png{
+    width: 350px;
+    border-radius: 25px;
+    border-style:outset;
+    border-color:orange;
+}
+
+#logos{
+    text-align:left;
+    width: 50px;
+    border-radius: 100%;
+    border-style:outset;
+    border-color:darkgoldenrod;
+}
+
+#link_secreto{
+    text-align: left;
+    color:#2f353a
+}

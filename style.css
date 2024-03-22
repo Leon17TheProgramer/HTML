@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+body {
+
+    background-color: #141d24;
+    color: white;
+    font-family: "Pixelify Sans", sans-serif;
+}
+a{
+    color: blueviolet;
+}
+
+.ul_item {
+    color: orange;
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+#ampulheta_png{
+    width: 15%;
+    border-style:outset;
+}
